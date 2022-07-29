@@ -1,9 +1,9 @@
 package mainJava;
 
-public class TastBase {
+public class PageClass {
 
 	public static void main(String[] args) {
-		System.out.println("Main JAVA");
+		System.out.println("Page Class");
 
 	}
 
